@@ -2,7 +2,7 @@
 
 **Testing my prompt design method through real-world Jobs-to-be-Done.**
 
-For me, [WSPL](https://neoncode.systems/proto.labs/) prompts work exceptionally well. Through this experiment, I'm testing whether that's true for others too.
+For me, [WSPL](https://neoncode.systems/proto.labs/#wspl-my-method-for-prompt-design) prompts work exceptionally well. Through this experiment, I'm testing whether that's true for others too.
 
 ## 🎯 The Experiment
 
