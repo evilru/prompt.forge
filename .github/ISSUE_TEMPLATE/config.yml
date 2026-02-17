@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Questions or Discussion
+    url: https://github.com/evilru/prompt.forge/discussions
+    about: Ask questions or discuss the experiment
+  - name: Website
+    url: https://neoncode.systems/prompt.forge/
+    about: Learn more about the prompt.forge experiment
