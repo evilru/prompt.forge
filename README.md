@@ -24,7 +24,7 @@ I'm comparing two approaches to prompt creation:
 ## 🚀 How to Participate
 
 ### Step 1: Run the Interview
-Copy the [Job-to-be-Done interview prompt](./prompts/jobs-to-be-done-discovery.prompt.md) and use it with your preferred AI (ChatGPT, Claude, Gemini, etc.)
+Copy the [Job-to-be-Done interview prompt](https://raw.githubusercontent.com/evilru/prompt.forge/refs/heads/main/prompts/job-to-be-done-discovery.prompt.md) and use it with your preferred AI (ChatGPT, Claude, Gemini, etc.)
 
 ### Step 2: Get Your Outputs
 
