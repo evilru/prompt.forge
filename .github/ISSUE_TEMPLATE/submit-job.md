@@ -1,6 +1,6 @@
 ---
 name: Submit Job-to-be-Done
-about: Submit your JTBD documentation and baseline prompt for WSPL comparison
+about: Submit your Jobs-to-be-Done documentation and baseline prompt for comparison
 title: '[JOB] '
 labels: ['new-submission', 'phase-1-voting']
 assignees: ''

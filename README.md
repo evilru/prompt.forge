@@ -1,23 +1,23 @@
 # prompt.forge
 
-**Testing my prompt design method through real-world Jobs-to-be-Done.**
+**Testing my prompt design method through real-world use cases.**
 
-For me, [WSPL](https://neoncode.systems/proto.labs/#wspl-my-method-for-prompt-design) prompts work exceptionally well. Through this experiment, I'm testing whether that's true for others too.
+For me, these prompts work exceptionally well. Through this experiment, I'm testing whether that's true for others too.
 
 ## 🎯 The Experiment
 
 I'm comparing two approaches to prompt creation:
-- **Baseline**: Auto-generated prompts from a structured Job-to-be-Done interview
-- **WSPL**: Prompts I craft using my method
+- **Baseline**: Auto-generated prompts from a structured Jobs-to-be-Done interview
+- **Crafted**: Prompts I design using [my method](https://neoncode.systems/proto.labs/#my-method-for-prompt-design)
 
 **What I'm learning:**
-- Does WSPL work exceptionally well for others too?
-- Where can the method be improved?
+- Does my method work exceptionally well for others too?
+- Where can it be improved?
 
 **What you get:**
-- Your prompt in both versions (baseline + WSPL)
+- Your prompt in both versions (baseline + crafted)
 - Real comparison in your own context
-- Your feedback shapes how WSPL evolves
+- Your feedback shapes how the method evolves
 
 ---
 
@@ -72,8 +72,8 @@ All submitted prompts (both baseline and WSPL versions) are collected in this re
 
 ## ❓ FAQ
 
-**Do I need to know what WSPL is?**  
-Nope! WSPL is my method for prompt design. Just test both versions and tell me which works better for you.
+**Do I need to know anything about the method?**  
+Nope! Just test both versions and tell me which works better for you.
 
 **Which AI should I use?**  
 Any major LLM works (GPT-5, Claude, Gemini, etc.). Mention which you used if it's relevant.
@@ -93,7 +93,7 @@ No – this is an experimental snapshot, not a production tool library. Prompts 
 
 - [Website: //prompt.forge](https://neoncode.systems/prompt.forge/)
 - [Parent Project: //proto.labs](https://neoncode.systems/proto.labs/)
-- [About WSPL](https://neoncode.systems/proto.labs/#wspl-my-method-for-prompt-design)
+- [About the method](https://neoncode.systems/proto.labs/#my-method-for-prompt-design)
 
 ---
 
