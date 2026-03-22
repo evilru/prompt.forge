@@ -1,23 +1,23 @@
 # prompt.forge
 
-**Testing my prompt design method through real-world use cases.**
+**Your job. My method. Better prompt.**
 
-For me, these prompts work exceptionally well. Through this experiment, I'm testing whether that's true for others too.
+Submit a real use case – I'll show you what **[Behaviour Priming](https://neoncode.systems/behaviour.priming/)** can do.
 
 ## 🎯 The Experiment
 
 I'm comparing two approaches to prompt creation:
 - **Baseline**: Auto-generated prompts from a structured Jobs-to-be-Done interview
-- **Crafted**: Prompts I design using [my method](https://neoncode.systems/proto.labs/#my-method-for-prompt-design)
+- **Crafted**: Prompts I design using **Behaviour Priming**
 
 **What I'm learning:**
-- Does my method work exceptionally well for others too?
-- Where can it be improved?
+- Does Behaviour Priming translate — does it work for others the way it works for me?
+- Where are the edges and failure modes?
 
 **What you get:**
-- Your prompt in both versions (baseline + crafted)
+- Your prompt in both versions (baseline + crafted with Behaviour Priming)
 - Real comparison in your own context
-- Your feedback shapes how the method evolves
+- Your feedback shapes how Behaviour Priming evolves
 
 ---
 
@@ -41,14 +41,14 @@ The interview will generate two things:
 
 ### Step 4: Vote & Compare
 
-- **Phase 1 Voting**: If many submissions come in, upvote (👍) the jobs you'd like to see WSPL versions for
+- **Phase 1 Voting**: Upvote (👍) the jobs you'd like me to create Behaviour Priming versions for
 - **Phase 2 Voting**: Once both versions are available, test them and vote on which works better for your needs
 
 ---
 
 ## 📚 The Collection
 
-All submitted prompts (both baseline and WSPL versions) are collected in this repository for reference and learning.
+All submitted prompts (both baseline and Behaviour Priming versions) are collected in this repository for reference and learning.
 
 <!--
 **Browse by category:**
@@ -93,7 +93,7 @@ No – this is an experimental snapshot, not a production tool library. Prompts 
 
 - [Website: //prompt.forge](https://neoncode.systems/prompt.forge/)
 - [Parent Project: //proto.labs](https://neoncode.systems/proto.labs/)
-- [About the method](https://neoncode.systems/proto.labs/#my-method-for-prompt-design)
+- [About Behaviour Priming](https://neoncode.systems/behaviour.priming/)
 
 ---
 
